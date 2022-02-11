@@ -11,6 +11,7 @@
 ### Step 5:print the out put 
 
 ## PROGRAM: 
+~~~
 import numpy as np 
 a=list()
 b=list()
@@ -23,7 +24,7 @@ arr1=np.array(a)
 arr2=np.array(b)
 product=np.multiply(a,b)
 print("Product of two arrays is:",product)
-
+~~~
 
 ## OUTPUT:
 ![Screenshot 2022-02-11 113818](https://user-images.githubusercontent.com/93978702/153544932-4d2cc543-3132-4546-b662-3d1c2908695d.png)
